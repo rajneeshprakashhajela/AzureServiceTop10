@@ -10,3 +10,5 @@ Azure Data Factory<br/>
 Azure Event Grid<br/>
 Azure Event Hub<br/>
 Azure Service Bus<br/>
+Azure Logic App<Br>
+Azure Site Recovery<Br>
