@@ -20,11 +20,6 @@ Security (User, Role, Policy), Monitoring, Logging, Exception Handling, Migratio
 19.	 Azure Key Vault<br/>
 20.	Azure DevOps<br/>
  
-
-
-
-
-
 <br/><br/>
 
 
@@ -35,6 +30,7 @@ This is a messaging at scale mecha<br/>nism where you process large volume of te
 EXAMPLE : Super Market – All the details related to the purchase, sent to the event hub which can be used to analyse the stock in the inventory and alert the Inventory department whenever the product goes out of stock
 
 Event Producer, Event Receiver, Partition, Consumer Group
+![image](https://user-images.githubusercontent.com/43515480/233822691-7c7d8c60-145a-47b8-a0d1-d0831cd785ce.png)
 
  
 <br/>
@@ -43,6 +39,7 @@ Azure Event Grid is a Publisher/Subscriber model, where there is a publisher who
 Event, Event Publisher, Event Subscriptions, Event Handler, Topics.
 
 EXAMPLE – Supermarket buys similar product from multiple vendors. The place an order which is subscribed by multiple vendors. Each vendor receives a copy of the order.
+![image](https://user-images.githubusercontent.com/43515480/233822699-78dbfcd6-42bf-45ef-a99c-d38dbc8305cd.png)
 
  
 <br/>
@@ -52,15 +49,17 @@ In simple terms we can compare this model with a IBM MQ i.e. a Queueing mechanis
 
 EXAMPLE – Super market where the cashiers bills your item one by one
 
+![image](https://user-images.githubusercontent.com/43515480/233822706-dd39c17e-8724-4515-a4f1-7bcb27e0d803.png)
+![image](https://user-images.githubusercontent.com/43515480/233822707-1a98dbcf-c7d3-41b2-88a3-24c27d07662a.png)
 
  
    <br/>
- 
+ ![image](https://user-images.githubusercontent.com/43515480/233822714-f483399d-5093-422c-ad01-c57a97a2b212.png)
 Azure API Management:<br/>
 Azure API Management offers a scalable, multi-cloud API management platform for securing, publishing, and analyzing APIs.
 Azure API Management is made up of an API gateway, a management plane, and a developer portal.
  
-
+![image](https://user-images.githubusercontent.com/43515480/233822724-d386ca5c-9415-4f97-8f62-fb6020718208.png)
  
 <br/>
 Azure Function<br/>
@@ -69,3 +68,5 @@ Azure Functions is a serverless solution that allows you to write less code, mai
 Azure Durable Functions is an extension of Azure Functions that lets you write stateful functions in a serverless compute environment.
 
 
+Azure AD
+![Uploading image.png…]()
