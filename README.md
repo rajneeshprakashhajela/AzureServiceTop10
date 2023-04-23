@@ -1,4 +1,4 @@
-Security (User, Role, Policy), Monitoring, Logging, Exception Handling, Migration
+Security (User, Role, Policy), Monitoring, Logging, Exception Handling, Migration <br/>
 1.	Azure Active Directory, AD Connect<br/>
 2.	Azure API Management<br/>
 3.	Azure Blob Storage<br/>
@@ -62,15 +62,17 @@ Azure API Management is made up of an API gateway, a management plane, and a dev
 ![image](https://user-images.githubusercontent.com/43515480/233822724-d386ca5c-9415-4f97-8f62-fb6020718208.png)
  
 <br/>
-Azure Function<br/>
-Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running
+<h3>Azure Function</h3><br/>
+Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs. Instead of worrying about deploying and maintaining servers, the cloud infrastructure provides all the up-to-date resources needed to keep your applications running <br/>
 
-Azure Durable Functions is an extension of Azure Functions that lets you write stateful functions in a serverless compute environment.
+Azure Durable Functions is an extension of Azure Functions that lets you write stateful functions in a serverless compute environment. <br/>
 
 
-Azure AD <br/>
+<h3>Azure AD</h3> <br/>
 <img width="567" alt="image" src="https://user-images.githubusercontent.com/43515480/233843219-f43cef11-0a50-4af5-9fb4-0cdce985d437.png">
 
-Azure service Bus <br/>
+<h3>Azure service Bus</h3> <br/>
+Topic - Multiple subscriber <br/>
+Queue - Queue only one consumer <br/>
 ![Uploading image.png…]()
 
