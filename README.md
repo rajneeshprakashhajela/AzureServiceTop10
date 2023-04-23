@@ -68,5 +68,9 @@ Azure Functions is a serverless solution that allows you to write less code, mai
 Azure Durable Functions is an extension of Azure Functions that lets you write stateful functions in a serverless compute environment.
 
 
-Azure AD
+Azure AD <br/>
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/43515480/233843219-f43cef11-0a50-4af5-9fb4-0cdce985d437.png">
+
+Azure service Bus <br/>
 ![Uploading image.png…]()
+
