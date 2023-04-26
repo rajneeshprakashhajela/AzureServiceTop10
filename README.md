@@ -6,6 +6,19 @@ https://www.youtube.com/watch?v=ubFp6HW5cvo
 SQL Server:
 https://www.youtube.com/watch?v=MhnmG-cHrKM
 
+Migrate via Azure Migrate
+![image](https://user-images.githubusercontent.com/43515480/234507786-fca9be61-4026-47f2-ade8-29d429bfd86d.png)
+![image](https://user-images.githubusercontent.com/43515480/234507913-30bbcdb0-40f2-431f-908d-f2bf97f5c22e.png)
+![image](https://user-images.githubusercontent.com/43515480/234509116-f920f0c6-d52d-4583-9fa6-715beb6fe5e2.png)
+![image](https://user-images.githubusercontent.com/43515480/234509638-821cf409-b46a-49a3-a09b-d97297184041.png)
+![image](https://user-images.githubusercontent.com/43515480/234509746-7ce744a2-68be-4cb9-a19d-2fe57c2dbe3c.png)
+![image](https://user-images.githubusercontent.com/43515480/234509878-76c65025-af93-4a28-8def-b31cfc353a42.png)
+![image](https://user-images.githubusercontent.com/43515480/234509906-b9e59fc3-fc15-4d5d-a201-66106cef0370.png)
+![image](https://user-images.githubusercontent.com/43515480/234510213-a9e91cf6-a255-4073-838b-c88370ac836b.png)
+![image](https://user-images.githubusercontent.com/43515480/234510273-8dba12aa-5c49-42d7-9d6f-8efc7aa3e0d5.png)
+![image](https://user-images.githubusercontent.com/43515480/234510674-cdceb083-da8c-41f5-861b-c157f198312a.png)
+
+
 <br/>
 Security (User, Role, Policy), Monitoring, Logging, Exception Handling, Migration <br/>
 1.	Azure Active Directory, AD Connect<br/>
