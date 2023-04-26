@@ -74,5 +74,13 @@ Azure Durable Functions is an extension of Azure Functions that lets you write s
 <h3>Azure service Bus</h3> <br/>
 Topic - Multiple subscriber <br/>
 Queue - Queue only one consumer <br/>
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/43515480/234226268-d6d5695f-ed18-42a8-bc80-7ee94d029563.png)
 
+<h3>Azure Cosmos DB</h3>
+Globally distributed highly responsible database in cloud
+![image](https://user-images.githubusercontent.com/43515480/234226393-2f7a2cda-3f56-4752-8294-0e579ba04436.png)
+![image](https://user-images.githubusercontent.com/43515480/234228513-a9aaaed0-9d2c-48fb-995c-fc7a6714233e.png)
+
+![image](https://user-images.githubusercontent.com/43515480/234228892-d1202f25-d33c-4eaf-b318-cf57d773e771.png)
+![image](https://user-images.githubusercontent.com/43515480/234228906-ff375cb3-a6c5-492f-920c-07ce81c228e7.png)
+![Uploading image.png…]()
