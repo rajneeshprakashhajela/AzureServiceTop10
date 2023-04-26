@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=ubFp6HW5cvo
 
 SQL Server:
 https://www.youtube.com/watch?v=MhnmG-cHrKM
+
+<br/>
 Security (User, Role, Policy), Monitoring, Logging, Exception Handling, Migration <br/>
 1.	Azure Active Directory, AD Connect<br/>
 2.	Azure API Management<br/>
