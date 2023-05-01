@@ -117,3 +117,8 @@ key vault for Role and access policies
 https://medium.com/geekculture/how-to-use-key-vault-secrets-in-azure-pipelines-658198f2eea6
 
 ![image](https://user-images.githubusercontent.com/43515480/235395500-bb0980cc-a071-446a-b162-7247504fe0d3.png)
+
+![image](https://user-images.githubusercontent.com/43515480/235447443-76193257-1db8-46a5-8d39-866e3794eef3.png)
+
+![image](https://user-images.githubusercontent.com/43515480/235447485-a0863717-a868-4a7b-a15e-9e74f607df02.png)
+![image](https://user-images.githubusercontent.com/43515480/235447619-2baf3ff5-d333-460f-aade-24f1a438a5de.png)
