@@ -107,6 +107,7 @@ Globally distributed highly responsible database in cloud
 ![image](https://user-images.githubusercontent.com/43515480/234228892-d1202f25-d33c-4eaf-b318-cf57d773e771.png)
 ![image](https://user-images.githubusercontent.com/43515480/234228906-ff375cb3-a6c5-492f-920c-07ce81c228e7.png)
 ![image](https://user-images.githubusercontent.com/43515480/235389687-dd29c066-c87a-4493-82df-08aa104b2f38.png)
-![image](https://user-images.githubusercontent.com/43515480/235389736-4282450e-2bb0-42a0-8426-d96b0e3ee1c8.png)
 
+filter data  data-->(Text to column) 
+![image](https://user-images.githubusercontent.com/43515480/235389913-21df0c9c-1572-4b9b-ad68-dea554c9d721.png)
 
