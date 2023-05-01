@@ -112,3 +112,6 @@ filter data  data-->(Text to column)
 ![image](https://user-images.githubusercontent.com/43515480/235389913-21df0c9c-1572-4b9b-ad68-dea554c9d721.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/235390025-f253af90-8aab-4da8-b95a-c17cb49b1b66.png)
+
+key vault for Role and access policies
+![image](https://user-images.githubusercontent.com/43515480/235395500-bb0980cc-a071-446a-b162-7247504fe0d3.png)
