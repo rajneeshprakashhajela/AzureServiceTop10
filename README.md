@@ -122,3 +122,8 @@ https://medium.com/geekculture/how-to-use-key-vault-secrets-in-azure-pipelines-6
 
 ![image](https://user-images.githubusercontent.com/43515480/235447485-a0863717-a868-4a7b-a15e-9e74f607df02.png)
 ![image](https://user-images.githubusercontent.com/43515480/235447619-2baf3ff5-d333-460f-aade-24f1a438a5de.png)
+
+NSG
+
+![image](https://user-images.githubusercontent.com/43515480/235448733-fdafa914-9676-4504-9d36-109f58d5bdd5.png)
+![image](https://user-images.githubusercontent.com/43515480/235448814-90af5417-f3b7-432a-bf46-ebde90e4ae2c.png)
