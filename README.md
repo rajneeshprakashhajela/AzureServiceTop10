@@ -135,4 +135,8 @@ https://stackoverflow.com/questions/64120870/azure-devops-deployment-to-multiple
 
 ![image](https://user-images.githubusercontent.com/43515480/235573433-e917395c-33b7-4480-895f-cb93757faf1b.png)
 
+Secure web app
+https://learn.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
+![image](https://user-images.githubusercontent.com/43515480/235573864-3facb326-a792-4ead-a728-850c6c5e1ae0.png)
 
+![image](https://user-images.githubusercontent.com/43515480/235573884-1371ac2f-f86c-4a27-b574-433e38ef5044.png)
