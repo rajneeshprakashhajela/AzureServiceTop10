@@ -142,3 +142,8 @@ https://learn.microsoft.com/en-us/azure/active-directory/develop/howto-create-se
 ![image](https://user-images.githubusercontent.com/43515480/235573864-3facb326-a792-4ead-a728-850c6c5e1ae0.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/235573884-1371ac2f-f86c-4a27-b574-433e38ef5044.png)
+
+https://learn.microsoft.com/en-us/answers/questions/661339/add-list-of-users-as-member-to-azure-ad-group-via
+
+![image](https://user-images.githubusercontent.com/43515480/235575179-4216b2f3-017a-4bcf-b0ff-d49947a45c56.png)
+
