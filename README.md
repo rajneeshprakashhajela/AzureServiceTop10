@@ -1,3 +1,5 @@
+A tenant is an Azure Active Directory (Azure AD) entity. It's the directory in which users, groups, and applications are stored. A subscription is a billing entity that you use to organize access to cloud resources.
+
 Migration
 
 webapp
