@@ -149,4 +149,14 @@ https://learn.microsoft.com/en-us/answers/questions/661339/add-list-of-users-as-
 
 Azure Policy
 ![image](https://user-images.githubusercontent.com/43515480/235575575-b6462550-62c3-41c3-95ff-ae0babaa130a.png)
+![image](https://user-images.githubusercontent.com/43515480/235579895-2ab0169c-b181-4661-a634-bd8b796da1b4.png)
+![image](https://user-images.githubusercontent.com/43515480/235580099-ca327c9d-614a-423b-b7a3-7d07f75ced44.png)
 
+![image](https://user-images.githubusercontent.com/43515480/235580143-03e52818-ad77-4dfa-a4ba-2c7a0d385446.png)
+![image](https://user-images.githubusercontent.com/43515480/235580286-499cbe4e-060b-488d-8212-813ef1a2ffba.png)
+
+![image](https://user-images.githubusercontent.com/43515480/235580374-6d4d6b2c-ff0c-45e8-bfee-5cf3a077cfc0.png)
+
+![image](https://user-images.githubusercontent.com/43515480/235580400-75775a22-70e1-49a6-a031-5842be7cd296.png)
+
+![image](https://user-images.githubusercontent.com/43515480/235580461-5bad69b9-039f-48a2-a039-6b95670fa31b.png)
