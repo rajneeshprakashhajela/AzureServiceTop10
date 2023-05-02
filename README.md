@@ -130,5 +130,9 @@ NSG
 
 ![image](https://user-images.githubusercontent.com/43515480/235572969-8d51936e-0194-4879-9325-1837f2740516.png)
 
+Multiple subscription
+https://stackoverflow.com/questions/64120870/azure-devops-deployment-to-multiple-subscription
+
+![image](https://user-images.githubusercontent.com/43515480/235573433-e917395c-33b7-4480-895f-cb93757faf1b.png)
 
 
