@@ -147,3 +147,6 @@ https://learn.microsoft.com/en-us/answers/questions/661339/add-list-of-users-as-
 
 ![image](https://user-images.githubusercontent.com/43515480/235575179-4216b2f3-017a-4bcf-b0ff-d49947a45c56.png)
 
+Azure Policy
+![image](https://user-images.githubusercontent.com/43515480/235575575-b6462550-62c3-41c3-95ff-ae0babaa130a.png)
+
