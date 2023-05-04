@@ -170,3 +170,5 @@ SSL offloading is a process in which SSL (Secure Sockets Layer) or TLS (Transpor
 https://www.youtube.com/watch?v=0OLW9R87__8
 
 ![image](https://user-images.githubusercontent.com/43515480/236263808-499beecd-7b05-48e8-97a9-9421f2710f06.png)
+
+Application gateways, on the other hand, are designed to handle HTTP and HTTPS traffic specifically. They can perform more advanced routing and load balancing functions than a basic load balancer, such as routing traffic based on URL paths or cookie values. In addition to load balancing, application gateways can also perform functions such as SSL offloading, content caching, and web application firewall (WAF) protection.
