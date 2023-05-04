@@ -172,3 +172,6 @@ https://www.youtube.com/watch?v=0OLW9R87__8
 ![image](https://user-images.githubusercontent.com/43515480/236263808-499beecd-7b05-48e8-97a9-9421f2710f06.png)
 
 Application gateways, on the other hand, are designed to handle HTTP and HTTPS traffic specifically. They can perform more advanced routing and load balancing functions than a basic load balancer, such as routing traffic based on URL paths or cookie values. In addition to load balancing, application gateways can also perform functions such as SSL offloading, content caching, and web application firewall (WAF) protection.
+
+![image](https://user-images.githubusercontent.com/43515480/236267199-0929a9fc-c317-406c-ba59-9f398a5f582b.png)
+https://www.youtube.com/watch?v=8NrO8nHHPDs
