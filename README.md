@@ -160,3 +160,6 @@ Azure Policy
 ![image](https://user-images.githubusercontent.com/43515480/235580400-75775a22-70e1-49a6-a031-5842be7cd296.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/235580461-5bad69b9-039f-48a2-a039-6b95670fa31b.png)
+
+Azure DevOPs step by step:
+https://github.com/dotnet/docs/blob/main/docs/architecture/devops-for-aspnet-developers/cicd.md
