@@ -163,3 +163,10 @@ Azure Policy
 
 Azure DevOPs step by step:
 https://github.com/dotnet/docs/blob/main/docs/architecture/devops-for-aspnet-developers/cicd.md
+
+Azure Application gateway SSL offloading
+SSL offloading is a process in which SSL (Secure Sockets Layer) or TLS (Transport Layer Security) encryption and decryption tasks are offloaded from a web server to a specialized device such as a load balancer, reverse proxy, or application delivery contro
+
+https://www.youtube.com/watch?v=0OLW9R87__8
+
+![image](https://user-images.githubusercontent.com/43515480/236263808-499beecd-7b05-48e8-97a9-9421f2710f06.png)
