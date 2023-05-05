@@ -1,4 +1,110 @@
+https://drive.google.com/drive/folders/12sFurrOhJyAqysoJAv4FClotVZXsHFUO?usp=sharing
+![image](https://user-images.githubusercontent.com/43515480/236380858-15f1e7b2-dd63-44a3-bfb2-33c1c8d510db.png)
+
+Have you worked in multi-subscription environment? What is Tenant ? (Azure lighthouse – Multiple tenant), sentinel (workbook)
+What are Azure polices, give few examples? (Azure policy and Blueprint provide the  rules and structure on the subscription)
+What is UDR (User defined Route) Or Route table and how to configure it in Azure? (virtual appliance)
+What are private endpoints in Azure?, Public endpoint, Bastion, Firewall, Ddos Protection, ExPress Route, Site to site , ASG, NSG, compute service (VM,VMSS,ACI,AKS,App Service, Function) , azure service, Publish repository on Linux server
+What do you understand by IaC? - Ansible, Terraform
+What is GitFlow branching model? (Feature branch, commit changes, Create PR, Code Review, Merge branch)
+What tool do you use for creating Architecture in Azure? (Miro, Draw.io, 
+Communication  VNET to Vnet, Subnet, VM, Subnet to Subnet, VM to VM
+Azure SQL & Sql Database -LRS, GRS  (Data Migration assigstant tool), App service migration assistant tool
+Azure DevOps Variable (Global Varibable then how will you change env for prod, test. (How to call  Azure secret in DevOps pipeline
+ If 1 machine is full (no space in disk) and 2nd If machine  is down  then what will be first step ?
+Classic editor & Yaml
+Can you Write  DevOPS pipel line YAML file in notepad  for Kubernetes Deployment, Service via Terraform (Strategy & Steps). Azure DevOps Pipeline CICD Steps with Resource access. (Only selected user can execute pipeline)  . How do you  call  Variable, Azure Keyvault in pipeline.  How Azure function in CICD Pipeline ? 
+Difference between Azure IAAS, PAAS, SAAS.  (How Azure durable function statefull work.)
+VM & VM ScaleSet , Vnet peering, Azure Policies, (Backup & Restore)
+Read and write (Post and Put) , Logic app (Consumption, standard), logic app exception handling, debug issue
+How  to call variable in yaml file. (global variable, local variable, dynamic varibale)
+How to balance traffic (Load Balancer, Front door, application Gateway, traffic manager)
+Canary, Blue Green Deployment , Helm chart, init container, SideCar
+Long running job on Azure function  (time out 2 min in logic app or function then how will you handle ? 
+Cloud infrastructure deployment, firewall and load balancing, networking, switching, backup and disaster recovery, high availability, enterprise and cloud storage management and technologies, databases and infrastructure capacity planning
+Software packaging and automated deployment experience.
+Do you have experience of managing kubernetes infrastructure in production environment?
+
+
+![image](https://user-images.githubusercontent.com/43515480/236380874-602094a4-8d37-4c41-8533-9b124dd9fd41.png)
+
+? Experience with using Async IOT Communication mechanisms, such as MQTT- Sparkplug.
+? Experience with using scripting languages for integration with various protocols.
+? Experience with API definition and design for Application Consumption.
+? Experience with Data modeling and Data Storage Design.
+? Experience with writing and maintaining automated testing at the unit, integration, and functional test levels.
+? Experience with source control tooling such as Git and following pull requests and peer code review guidelines.
+? Ability to plan, estimate, and deliver highly focused and tested features and enhancements in a 2-week agile sprint cadence and releasing.
+? Has strong written skills and the ability to effective communicate technical analyses and
+results to business management
+? Demonstrable knowledge and skills with network programming, distributed systems, security, uthentication, and authorization in distributed systems and the web
+? Familiarity with various software architectures: service oriented architecture, microservices, event driven, serverless computing
+? Experience with SQL, NoSQL, and Multi-modal database systems such as MySQL,
+PostgreSQL, Snowflake, and CosmosDB, etc.
+? Hands-on experience with public clouds such as Microsoft Azure, Amazon Web Services, or
+the Google Cloud Platform and technologies (or an equivalent) such as:
+? Azure DevOps CI/CD, ? Azure Key Vault, ? Azure IOT, EventHubs, Event Grid, Azure Functions
+? Experience working with DevOps technologies such as Jenkins or Chef
+? Container experience using technologies such as: ? Docker,? Kubernetes,? Helm,? AKS,? OpenShift, ? Service Fabric
+? Strong experience in Data Ingestion and Integration
+? Deep experience with high volume distributed event data processing
+? Experience with caching strategies and technologies (such as Redis) in a distributed system
+? At least one additional scripting language such as Powershell, Python, Perl, R, Ruby.,? RESTful/GraphQL API Design
+? Configuration Management Tool experience
+![image](https://user-images.githubusercontent.com/43515480/236380881-75419412-4387-4f28-9e48-12b6ab88c27f.png)
+
 A tenant is an Azure Active Directory (Azure AD) entity. It's the directory in which users, groups, and applications are stored. A subscription is a billing entity that you use to organize access to cloud resources.
+
+How would you design highly available and scalable architecture using azure resources load balancer, Virtual machine etc.
+Region, availability set, Availability zone
+AKS How to decide node count or node pool size ?
+Git type of merge
+If pipeline is deployed on prod how to revert back ?
+AKS Storage Class, Persistent Volume, Persistent claim.
+Classic editor and Yaml file.
+Azure Table storage vs Azure CosmosDB
+Azure Queue Vs Azure service bus
+Event grid, event hub, Service Bus
+Application Gateway vs Load Balancer
+https://drive.google.com/drive/folders/12sFurrOhJyAqysoJAv4FClotVZXsHFUO?usp=sharing
+
+
+
+![image](https://user-images.githubusercontent.com/43515480/236380892-689708ca-ece3-4a65-a420-2bf6b4ed70f5.png)
+
+1. Microsoft Azure- PAAS - Azure VMs, Azure Storage Web Apps, Azure functions , Logic Apps, Azure Service bus
+2. Azure AD and identity management 
+3. Azure SQL Database / COSMOS DB/MySql 
+4. Azure Storage : File, Blob etc.. 
+5. DevOps Git / Azure DevOps/Jenkins 
+6. Dockers and Containers 
+7. Transformation tools and services for ex: Azure migration services 
+8. Certifications/Hands on expertise on Cloud platforms Azure. Good to have: 1. Azure IAAS: Azure VMs, VNET, Gateways, Firewalls, Load balancers, Azure Front Door, Radish Cache 2. Azure Data analytics solutions: Synapse, ADF , ML and cognitive solutions .
+• Hands On expereince in Azure Solutions implementating Azure VM, Storage, Web Apps, Azure functions , Logic Apps etc. and help team members to resolve technical issues 
+• Understand end to end requirements, perform code implementations, Code reviews, Code configurations , Deployments and update documentation LLDs. 
+• Source code configurations branching, merging and handling code conflicts 
+• Exposure to DevOps CI-CD using Azure DevOps/Bitbucket/Jenkins etc. 
+• Exposure \ Knowledge of transformation from on-premis to Azure hosted solutions
+![image](https://user-images.githubusercontent.com/43515480/236380900-6f94f504-0674-4ceb-a98e-9a946b6069fe.png)
+![image](https://user-images.githubusercontent.com/43515480/236380909-f244debf-1222-4c6c-b8ff-16ed51ca6916.png)
+![image](https://user-images.githubusercontent.com/43515480/236380915-4209a859-6a44-49eb-b2f3-9fb7d8bbafcd.png)
+![image](https://user-images.githubusercontent.com/43515480/236380940-d3f44989-1e91-484a-9f12-2b2b95deb47d.png)
+![image](https://user-images.githubusercontent.com/43515480/236380942-6c851c37-89ec-44d2-86a1-ee62ffaecf4c.png)
+![image](https://user-images.githubusercontent.com/43515480/236380955-a658197e-dbce-4c5b-a669-2a6f0f0b9099.png)
+![image](https://user-images.githubusercontent.com/43515480/236380968-c8c46f4a-dc07-496c-9c9d-107b1ff16357.png)
+![image](https://user-images.githubusercontent.com/43515480/236380977-2ee62c25-06ca-4e5a-9786-11eb24ea3a3a.png)
+![image](https://user-images.githubusercontent.com/43515480/236380982-431685a8-2aef-4809-87ef-1d42c1dcf58e.png)
+![image](https://user-images.githubusercontent.com/43515480/236380996-a5378550-ae3e-44e1-8042-3c30ebb25fba.png)
+![image](https://user-images.githubusercontent.com/43515480/236381004-accbc563-972e-45ac-9109-9771d670aad2.png)
+![image](https://user-images.githubusercontent.com/43515480/236381014-b9ded90f-9e98-4339-ae17-04192406e31c.png)
+![image](https://user-images.githubusercontent.com/43515480/236381021-3364064b-22d2-4f1b-9ae8-0996f252f78f.png)
+![image](https://user-images.githubusercontent.com/43515480/236381036-a6c9b62c-cfac-4944-aed8-4d4aedd6b881.png)
+![image](https://user-images.githubusercontent.com/43515480/236381044-88f51863-e7b6-4248-ac3f-950d9392d54b.png)
+![image](https://user-images.githubusercontent.com/43515480/236381046-9e5080ac-d35b-4254-a9aa-995aa666fa94.png)
+![image](https://user-images.githubusercontent.com/43515480/236381052-6df7c6e0-b928-49ca-a9a7-6a6f015ba475.png)
+![image](https://user-images.githubusercontent.com/43515480/236381061-496c4482-3f17-4318-9f00-527ab53f159f.png)
+![image](https://user-images.githubusercontent.com/43515480/236381064-95bf091d-bf5c-43b8-bc2e-d4b173d9d2e3.png)
+![image](https://user-images.githubusercontent.com/43515480/236381071-6192e791-4efd-49ee-918c-d27e1a6ff9ad.png)
 
 Migration
 
@@ -20,6 +126,20 @@ Migrate via Azure Migrate <br/>
 ![image](https://user-images.githubusercontent.com/43515480/234510273-8dba12aa-5c49-42d7-9d6f-8efc7aa3e0d5.png)
 ![image](https://user-images.githubusercontent.com/43515480/234510674-cdceb083-da8c-41f5-861b-c157f198312a.png)
 ![image](https://user-images.githubusercontent.com/43515480/234511046-7522708d-adbe-4f95-8b2f-980a813a9a89.png)
+![image](https://user-images.githubusercontent.com/43515480/236381103-af3f329a-7ced-493d-a766-37f0ef93d074.png)
+![image](https://user-images.githubusercontent.com/43515480/236381110-f1c1cd93-f85f-4c45-94f7-e73e38924de0.png)
+![image](https://user-images.githubusercontent.com/43515480/236381116-8b0d809a-fc21-4279-9229-e485242b68d7.png)
+![image](https://user-images.githubusercontent.com/43515480/236381122-0a7ae9c0-e87b-4b1d-a8d7-d68b209628c8.png)
+![image](https://user-images.githubusercontent.com/43515480/236381127-272a5e77-b439-40c4-bec8-fc5e0057a8d2.png)
+![image](https://user-images.githubusercontent.com/43515480/236381141-60cd37a1-bbf3-4a11-acc0-be308526fb6b.png)
+![image](https://user-images.githubusercontent.com/43515480/236381146-b239fa6f-7435-466e-8c9f-e261dbfd87d9.png)
+![image](https://user-images.githubusercontent.com/43515480/236381154-f8af9f92-8db3-4984-b55a-2dd77184ce14.png)
+![image](https://user-images.githubusercontent.com/43515480/236381164-6c4effc4-6db0-4f3f-98b3-892d816a43f9.png)
+![image](https://user-images.githubusercontent.com/43515480/236381175-c7a35ab7-aca0-4826-ae1c-64f1e4d34755.png)
+![image](https://user-images.githubusercontent.com/43515480/236381202-432b6240-027f-4e55-b021-3a7857991b2d.png)
+![image](https://user-images.githubusercontent.com/43515480/236381213-4026bde9-ff79-4e4a-b779-37cbe88c0ff0.png)
+![image](https://user-images.githubusercontent.com/43515480/236381225-c97080a8-2e01-4295-a234-781bf96885d1.png)
+![image](https://user-images.githubusercontent.com/43515480/236381230-6d1ff992-218a-4a1f-8ccf-99170c6b7e35.png)
 
 
 <br/>
