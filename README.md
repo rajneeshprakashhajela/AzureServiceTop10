@@ -1,90 +1,90 @@
 https://drive.google.com/drive/folders/12sFurrOhJyAqysoJAv4FClotVZXsHFUO?usp=sharing
 ![image](https://user-images.githubusercontent.com/43515480/236380858-15f1e7b2-dd63-44a3-bfb2-33c1c8d510db.png)
 
-Have you worked in multi-subscription environment? What is Tenant ? (Azure lighthouse – Multiple tenant), sentinel (workbook)
-What are Azure polices, give few examples? (Azure policy and Blueprint provide the  rules and structure on the subscription)
-What is UDR (User defined Route) Or Route table and how to configure it in Azure? (virtual appliance)
-What are private endpoints in Azure?, Public endpoint, Bastion, Firewall, Ddos Protection, ExPress Route, Site to site , ASG, NSG, compute service (VM,VMSS,ACI,AKS,App Service, Function) , azure service, Publish repository on Linux server
-What do you understand by IaC? - Ansible, Terraform
-What is GitFlow branching model? (Feature branch, commit changes, Create PR, Code Review, Merge branch)
-What tool do you use for creating Architecture in Azure? (Miro, Draw.io, 
-Communication  VNET to Vnet, Subnet, VM, Subnet to Subnet, VM to VM
-Azure SQL & Sql Database -LRS, GRS  (Data Migration assigstant tool), App service migration assistant tool
-Azure DevOps Variable (Global Varibable then how will you change env for prod, test. (How to call  Azure secret in DevOps pipeline
- If 1 machine is full (no space in disk) and 2nd If machine  is down  then what will be first step ?
-Classic editor & Yaml
-Can you Write  DevOPS pipel line YAML file in notepad  for Kubernetes Deployment, Service via Terraform (Strategy & Steps). Azure DevOps Pipeline CICD Steps with Resource access. (Only selected user can execute pipeline)  . How do you  call  Variable, Azure Keyvault in pipeline.  How Azure function in CICD Pipeline ? 
-Difference between Azure IAAS, PAAS, SAAS.  (How Azure durable function statefull work.)
-VM & VM ScaleSet , Vnet peering, Azure Policies, (Backup & Restore)
-Read and write (Post and Put) , Logic app (Consumption, standard), logic app exception handling, debug issue
-How  to call variable in yaml file. (global variable, local variable, dynamic varibale)
-How to balance traffic (Load Balancer, Front door, application Gateway, traffic manager)
-Canary, Blue Green Deployment , Helm chart, init container, SideCar
-Long running job on Azure function  (time out 2 min in logic app or function then how will you handle ? 
-Cloud infrastructure deployment, firewall and load balancing, networking, switching, backup and disaster recovery, high availability, enterprise and cloud storage management and technologies, databases and infrastructure capacity planning
-Software packaging and automated deployment experience.
-Do you have experience of managing kubernetes infrastructure in production environment?
+Have you worked in multi-subscription environment? What is Tenant ? (Azure lighthouse – Multiple tenant), sentinel (workbook)<br/>
+What are Azure polices, give few examples? (Azure policy and Blueprint provide the  rules and structure on the subscription)<br/>
+What is UDR (User defined Route) Or Route table and how to configure it in Azure? (virtual appliance)<br/>
+What are private endpoints in Azure?, Public endpoint, Bastion, Firewall, Ddos Protection, ExPress Route, Site to site , ASG, NSG, compute service (VM,VMSS,ACI,AKS,App Service, Function) , azure service, Publish repository on Linux server<br/>
+What do you understand by IaC? - Ansible, Terraform<br/>
+What is GitFlow branching model? (Feature branch, commit changes, Create PR, Code Review, Merge branch)<br/>
+What tool do you use for creating Architecture in Azure? (Miro, Draw.io, <br/>
+Communication  VNET to Vnet, Subnet, VM, Subnet to Subnet, VM to VM<br/>
+Azure SQL & Sql Database -LRS, GRS  (Data Migration assigstant tool), App service migration assistant tool<br/>
+Azure DevOps Variable (Global Varibable then how will you change env for prod, test. (How to call  Azure secret in DevOps pipeline<br/>
+ If 1 machine is full (no space in disk) and 2nd If machine  is down  then what will be first step ?<br/>
+Classic editor & Yaml<br/>
+Can you Write  DevOPS pipel line YAML file in notepad  for Kubernetes Deployment, Service via Terraform (Strategy & Steps). <br/>Azure DevOps Pipeline CICD Steps with Resource access. (Only selected user can execute pipeline)  . How do you  call  Variable, Azure Keyvault in pipeline.  How Azure function in CICD Pipeline ? <br/>
+Difference between Azure IAAS, PAAS, SAAS.  (How Azure durable function statefull work.)<br/>
+VM & VM ScaleSet , Vnet peering, Azure Policies, (Backup & Restore)<br/>
+Read and write (Post and Put) , Logic app (Consumption, standard), logic app exception handling, debug issue<br/>
+How  to call variable in yaml file. (global variable, local variable, dynamic varibale)<br/>
+How to balance traffic (Load Balancer, Front door, application Gateway, traffic manager)<br/>
+Canary, Blue Green Deployment , Helm chart, init container, SideCar<br/>
+Long running job on Azure function  (time out 2 min in logic app or function then how will you handle ? <br/>
+Cloud infrastructure deployment, firewall and load balancing, networking, switching, backup and disaster recovery, high <br/>availability, enterprise and cloud storage management and technologies, databases and infrastructure capacity planning<br/>
+Software packaging and automated deployment experience.<br/><br/>
+Do you have experience of managing kubernetes infrastructure in production environment?<br/>
 
 
 ![image](https://user-images.githubusercontent.com/43515480/236380874-602094a4-8d37-4c41-8533-9b124dd9fd41.png)
 
-? Experience with using Async IOT Communication mechanisms, such as MQTT- Sparkplug.
-? Experience with using scripting languages for integration with various protocols.
-? Experience with API definition and design for Application Consumption.
-? Experience with Data modeling and Data Storage Design.
-? Experience with writing and maintaining automated testing at the unit, integration, and functional test levels.
-? Experience with source control tooling such as Git and following pull requests and peer code review guidelines.
-? Ability to plan, estimate, and deliver highly focused and tested features and enhancements in a 2-week agile sprint cadence and releasing.
+? Experience with using Async IOT Communication mechanisms, such as MQTT- Sparkplug.<br/>
+? Experience with using scripting languages for integration with various protocols.<br/>
+? Experience with API definition and design for Application Consumption.<br/>
+? Experience with Data modeling and Data Storage Design.<br/>
+? Experience with writing and maintaining automated testing at the unit, integration, and functional test levels.<br/>
+? Experience with source control tooling such as Git and following pull requests and peer code review guidelines.<br/>
+? Ability to plan, estimate, and deliver highly focused and tested features and enhancements in a 2-week agile sprint cadence and releasing.<br/>
 ? Has strong written skills and the ability to effective communicate technical analyses and
-results to business management
-? Demonstrable knowledge and skills with network programming, distributed systems, security, uthentication, and authorization in distributed systems and the web
-? Familiarity with various software architectures: service oriented architecture, microservices, event driven, serverless computing
-? Experience with SQL, NoSQL, and Multi-modal database systems such as MySQL,
-PostgreSQL, Snowflake, and CosmosDB, etc.
-? Hands-on experience with public clouds such as Microsoft Azure, Amazon Web Services, or
-the Google Cloud Platform and technologies (or an equivalent) such as:
-? Azure DevOps CI/CD, ? Azure Key Vault, ? Azure IOT, EventHubs, Event Grid, Azure Functions
-? Experience working with DevOps technologies such as Jenkins or Chef
-? Container experience using technologies such as: ? Docker,? Kubernetes,? Helm,? AKS,? OpenShift, ? Service Fabric
-? Strong experience in Data Ingestion and Integration
+results to business management<br/>
+? Demonstrable knowledge and skills with network programming, distributed systems, security, uthentication, and authorization in distributed systems and the web<br/>
+? Familiarity with various software architectures: service oriented architecture, microservices, event driven, serverless computing<br/>
+? Experience with SQL, NoSQL, and Multi-modal database systems such as MySQL,<br/>
+PostgreSQL, Snowflake, and CosmosDB, etc.<br/>
+? Hands-on experience with public clouds such as Microsoft Azure, Amazon Web Services, or<br/>
+the Google Cloud Platform and technologies (or an equivalent) such as:<br/>
+? Azure DevOps CI/CD, ? Azure Key Vault, ? Azure IOT, EventHubs, Event Grid, Azure Functions<br/>
+? Experience working with DevOps technologies such as Jenkins or Chef<br/>
+? Container experience using technologies such as: ? Docker,? Kubernetes,? Helm,? AKS,? OpenShift, ? Service Fabric<br/>
+? Strong experience in Data Ingestion and Integration<br/>
 ? Deep experience with high volume distributed event data processing
-? Experience with caching strategies and technologies (such as Redis) in a distributed system
+? Experience with caching strategies and technologies (such as Redis) in a distributed system<br/>
 ? At least one additional scripting language such as Powershell, Python, Perl, R, Ruby.,? RESTful/GraphQL API Design
-? Configuration Management Tool experience
-![image](https://user-images.githubusercontent.com/43515480/236380881-75419412-4387-4f28-9e48-12b6ab88c27f.png)
+? Configuration Management Tool experience<br/>
+![image](https://user-images.githubusercontent.com/43515480/236380881-75419412-4387-4f28-9e48-12b6ab88c27f.png)<br/>
 
-A tenant is an Azure Active Directory (Azure AD) entity. It's the directory in which users, groups, and applications are stored. A subscription is a billing entity that you use to organize access to cloud resources.
+A tenant is an Azure Active Directory (Azure AD) entity. It's the directory in which users, groups, and applications are stored. A subscription is a billing entity that you use to organize access to cloud resources.<br/><br/>
 
 How would you design highly available and scalable architecture using azure resources load balancer, Virtual machine etc.
-Region, availability set, Availability zone
-AKS How to decide node count or node pool size ?
-Git type of merge
-If pipeline is deployed on prod how to revert back ?
-AKS Storage Class, Persistent Volume, Persistent claim.
-Classic editor and Yaml file.
-Azure Table storage vs Azure CosmosDB
-Azure Queue Vs Azure service bus
-Event grid, event hub, Service Bus
-Application Gateway vs Load Balancer
+Region, availability set, Availability zone<br/><br/>
+AKS How to decide node count or node pool size ?<br/><br/>
+Git type of merge<br/>
+If pipeline is deployed on prod how to revert back ?<br/>
+AKS Storage Class, Persistent Volume, Persistent claim.<br/>
+Classic editor and Yaml file.<br/>
+Azure Table storage vs Azure CosmosDB<br/>
+Azure Queue Vs Azure service bus<br/>
+Event grid, event hub, Service Bus<br/>
+Application Gateway vs Load Balancer<br/>
 https://drive.google.com/drive/folders/12sFurrOhJyAqysoJAv4FClotVZXsHFUO?usp=sharing
 
 
 
 ![image](https://user-images.githubusercontent.com/43515480/236380892-689708ca-ece3-4a65-a420-2bf6b4ed70f5.png)
 
-1. Microsoft Azure- PAAS - Azure VMs, Azure Storage Web Apps, Azure functions , Logic Apps, Azure Service bus
-2. Azure AD and identity management 
-3. Azure SQL Database / COSMOS DB/MySql 
-4. Azure Storage : File, Blob etc.. 
-5. DevOps Git / Azure DevOps/Jenkins 
-6. Dockers and Containers 
+1. Microsoft Azure- PAAS - Azure VMs, Azure Storage Web Apps, Azure functions , Logic Apps, Azure Service bus<br/>
+2. Azure AD and identity management <br/>
+3. Azure SQL Database / COSMOS DB/MySql <br/>
+4. Azure Storage : File, Blob etc.. <br/><br/>
+5. DevOps Git / Azure DevOps/Jenkins <br/>
+6. Dockers and Containers <br/>
 7. Transformation tools and services for ex: Azure migration services 
-8. Certifications/Hands on expertise on Cloud platforms Azure. Good to have: 1. Azure IAAS: Azure VMs, VNET, Gateways, Firewalls, Load balancers, Azure Front Door, Radish Cache 2. Azure Data analytics solutions: Synapse, ADF , ML and cognitive solutions .
-• Hands On expereince in Azure Solutions implementating Azure VM, Storage, Web Apps, Azure functions , Logic Apps etc. and help team members to resolve technical issues 
-• Understand end to end requirements, perform code implementations, Code reviews, Code configurations , Deployments and update documentation LLDs. 
-• Source code configurations branching, merging and handling code conflicts 
-• Exposure to DevOps CI-CD using Azure DevOps/Bitbucket/Jenkins etc. 
-• Exposure \ Knowledge of transformation from on-premis to Azure hosted solutions
+8. Certifications/Hands on expertise on Cloud platforms Azure. Good to have: 1. Azure IAAS: Azure VMs, VNET, Gateways, Firewalls, Load balancers, Azure Front Door, Radish Cache 2. Azure Data analytics solutions: Synapse, ADF , ML and cognitive solutions .<br/>
+• Hands On expereince in Azure Solutions implementating Azure VM, Storage, Web Apps, Azure functions , Logic Apps etc. and help team members to resolve technical issues <br/>
+• Understand end to end requirements, perform code implementations, Code reviews, Code configurations , Deployments and update documentation LLDs. <br/>
+• Source code configurations branching, merging and handling code conflicts <br/>
+• Exposure to DevOps CI-CD using Azure DevOps/Bitbucket/Jenkins etc. <br/>
+• Exposure \ Knowledge of transformation from on-premis to Azure hosted solutions<br/><br/>
 ![image](https://user-images.githubusercontent.com/43515480/236380900-6f94f504-0674-4ceb-a98e-9a946b6069fe.png)
 ![image](https://user-images.githubusercontent.com/43515480/236380909-f244debf-1222-4c6c-b8ff-16ed51ca6916.png)
 ![image](https://user-images.githubusercontent.com/43515480/236380915-4209a859-6a44-49eb-b2f3-9fb7d8bbafcd.png)
