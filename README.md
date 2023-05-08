@@ -1,8 +1,13 @@
 API Manangement JWT Token
 https://tointegrationandbeyond.com/blogs/index.php/2020/06/13/authorization-with-azure-api-management/
 
-https://conferenceapi.azurewebsites.net/
+secure  azure function 
+https://dev.to/ib1/protecting-azure-functions-with-api-management-service-53el
 
+https://conferenceapi.azurewebsites.net/
+![image](https://user-images.githubusercontent.com/43515480/236736003-bbfa4809-7fa0-4ebc-9de3-85631a87f1f0.png)
+
+![image](https://user-images.githubusercontent.com/43515480/236735968-e589620a-85f8-4b31-b843-2b6353322d33.png)
 
 https://drive.google.com/drive/folders/12sFurrOhJyAqysoJAv4FClotVZXsHFUO?usp=sharing
 ![image](https://user-images.githubusercontent.com/43515480/236380858-15f1e7b2-dd63-44a3-bfb2-33c1c8d510db.png)
