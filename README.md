@@ -1,3 +1,6 @@
+API Manangement JWT Token
+https://tointegrationandbeyond.com/blogs/index.php/2020/06/13/authorization-with-azure-api-management/
+
 https://conferenceapi.azurewebsites.net/
 
 
