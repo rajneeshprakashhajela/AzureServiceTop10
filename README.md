@@ -4,6 +4,8 @@ Manage the "run after" behavior<br/>
 Evaluate actions with scopes and their results<br/>
 Set up Azure Monitor logs<br/>
 <br/>
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/df928f91-ad83-40f9-baa3-bbd1ebc94431)
+
 ![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/dc4be410-2cb2-4d5d-b5b1-a78eadb821d1)
 ![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/93dac56b-e385-4358-b74a-fecf1b995abb)
 By default, the "run after" status is set to is successful. So, the predecessor action must run successfully before the currently selected action can run.
