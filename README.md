@@ -4,6 +4,10 @@ Manage the "run after" behavior<br/>
 Evaluate actions with scopes and their results<br/>
 Set up Azure Monitor logs<br/>
 <br/>
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/dc4be410-2cb2-4d5d-b5b1-a78eadb821d1)
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/93dac56b-e385-4358-b74a-fecf1b995abb)
+By default, the "run after" status is set to is successful. So, the predecessor action must run successfully before the currently selected action can run.
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/58065dfd-c53e-4dc9-b28f-95486129a09f)
 
 Logic app time out:
 
