@@ -1,4 +1,12 @@
+Logic app exception handling
+Retry policies <br/>
+Manage the "run after" behavior<br/>
+Evaluate actions with scopes and their results<br/>
+Set up Azure Monitor logs<br/>
+<br/>
+
 Logic app time out:
+
 https://medium.com/@priyankabhakuni1/logic-apps-timeout-issue-solved-3307f45fd682
 
 
@@ -9,11 +17,7 @@ https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d
 
 
 https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
-Retry policies <br/>
-Manage the "run after" behavior<br/>
-Evaluate actions with scopes and their results<br/>
-Set up Azure Monitor logs<br/>
-<br/>
+
 
 
 The Webhook handles the timeout issue smoothly. I have never encountered the timeout issue again after implementing this functionality.
