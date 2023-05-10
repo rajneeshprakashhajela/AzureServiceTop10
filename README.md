@@ -8,6 +8,14 @@ https://medium.com/@jeffhollan/calling-long-running-functions-from-logic-apps-6d
 ![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/2c587de4-084a-4d29-91f8-5f69c0b63ef9)
 
 
+https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-exception-handling?tabs=consumption
+Retry policies <br/>
+Manage the "run after" behavior<br/>
+Evaluate actions with scopes and their results<br/>
+Set up Azure Monitor logs<br/>
+<br/>
+
+
 The Webhook handles the timeout issue smoothly. I have never encountered the timeout issue again after implementing this functionality.
 Webhook calls the Azure function, HTTP Trigger
 HTTP Trigger has two important roles a) Send a message to a Queue b) Call Logic Apps
