@@ -1,5 +1,15 @@
 Logic app time out:
 https://medium.com/@priyankabhakuni1/logic-apps-timeout-issue-solved-3307f45fd682
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/a339797a-aa50-4581-af54-97f708a5aee3)
+The Webhook handles the timeout issue smoothly. I have never encountered the timeout issue again after implementing this functionality.
+Webhook calls the Azure function, HTTP Trigger
+HTTP Trigger has two important roles a) Send a message to a Queue b) Call Logic Apps
+Ensure the message which is sent to the Queue should have the Logic App Callback URL
+Once the message is sent, HTTP Trigger sends a response back to Logic Apps with a 202 (Accepted response). This should happen in the 120 seconds timeframe
+The accepted response will make the Logic App go into a dehydrated state. It will no longer clock the 120 seconds timeframe
+
+
+![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/4abeb2a2-4cf9-43db-a59c-f0aa00de9324)
 
 API Manangement JWT Token
 https://tointegrationandbeyond.com/blogs/index.php/2020/06/13/authorization-with-azure-api-management/
