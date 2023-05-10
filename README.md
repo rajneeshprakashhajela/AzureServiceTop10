@@ -1,3 +1,6 @@
+Logic app time out:
+https://medium.com/@priyankabhakuni1/logic-apps-timeout-issue-solved-3307f45fd682
+
 API Manangement JWT Token
 https://tointegrationandbeyond.com/blogs/index.php/2020/06/13/authorization-with-azure-api-management/
 
