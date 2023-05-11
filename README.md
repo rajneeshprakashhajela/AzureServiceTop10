@@ -6,6 +6,7 @@ Transaction in microservice based architecture
 Log & Monitor Microservices
 https://medium.com/aspnetrun/microservices-observability-with-distributed-logging-using-elasticsearch-and-kibana-79df919997d2
 ![image](https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/4a533811-4a42-4214-9cbf-b0344383efc8)
+<img width="520" alt="image" src="https://github.com/rajneeshprakashhajela/AzureServiceTop10/assets/43515480/ecd3eceb-ab21-4da5-a847-c5eb85a85390">
 
 Use docker-compose Kibana image from docker hub and feed Kibana with elastic stack
 That means we Containerize ElasticSearch and Kibana on our docker environment with using Docker Compose
